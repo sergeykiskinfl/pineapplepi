@@ -1,0 +1,93 @@
+[
+  {
+    "id": "10",
+    "name": "Pineapple Pi 2 Model B",
+    "imageUrl": "YOUR_IMAGE_URL",
+    "specification": {
+      "Network": ["100M Ethernet", "Wi-Fi 802.11 b/g/n", "Bluetooth 4.0"],
+      "CPU": "Allwinner R40/V40/A40i",
+      "OS": ["Android", "Linux"],
+      "Memory": "1GB DDR3",
+      "Video Output": [
+        "HDMI port and multi-channel audio output",
+        "4-lane MIPI DSI display"
+      ],
+      "Storage": ["SATA interface", "MicroSD slot"],
+      "USB ports": ["1 x USB 2.0 OTG", "4 x USB 2.0 ports"],
+      "GPU": "Dual-core MALI-400 MP2"
+    },
+    "price": 30
+  },
+  {
+    "id": "101",
+    "name": "Pineapple Pi Zero",
+    "imageUrl": "YOUR_IMAGE_URL",
+    "specification": {
+      "Network": ["100M Ethernet", "Wi-Fi 802.11 b/g/n", "Bluetooth 4.0"],
+      "CPU": "H2+ Quad-core Cortex-A7",
+      "OS": ["Android", "Linux"],
+      "Memory": "512M DDR3",
+      "Video Output": "Mini HDMI",
+      "Storage": ["8G eMMC flash onboard", "MicroSD slot"],
+      "USB ports": "1 x USB 2.0 OTG",
+      "GPU": "Mali 400 MP2"
+    },
+    "price": 25
+  },
+  {
+    "id": "102",
+    "name": "Pineapple Pi Zero W",
+    "imageUrl": "YOUR_IMAGE_URL",
+    "specification": {
+      "Network": ["Wi-Fi 802.11 b/g/n", "Bluetooth 4.0"],
+      "CPU": "H2+ Quad-core Cortex-A7",
+      "OS": ["Android", "Linux"],
+      "Memory": "512M DDR3",
+      "Video Output": "Mini HDMI",
+      "Storage": "MicroSD slot",
+      "USB ports": "1 x USB 2.0 OTG",
+      "GPU": "Mali 400 MP2"
+    },
+    "price": 20
+  },
+  {
+    "id": "11",
+    "name": "Pineapple Pi 3 Model A",
+    "imageUrl": "YOUR_IMAGE_URL",
+    "specification": {
+      "Network": [
+        "10/100 Mbit/s Ethernet",
+        "Wi-Fi 802.11 b/g/n",
+        "Bluetooth 4.0"
+      ],
+      "CPU": "Quad-core Cortex-A7",
+      "OS": ["Android", "Linux"],
+      "Memory": "2 GB DDR3",
+      "Video Output": ["HDMI port", "4-lane MIPI DSI display"],
+      "Storage": ["8G eMMC flash onboard", "MicroSD slot", "SATA interface"],
+      "USB ports": ["1 x USB 2.0 OTG", "2 x USB 2.0 ports"],
+      "GPU": "Dual-core MALI-400 MP2"
+    },
+    "price": 35
+  },
+  {
+    "id": "15",
+    "name": "Pineapple Pi 3 Model B 15",
+    "imageUrl": "YOUR_IMAGE_URL",
+    "specification": {
+      "Network": "2 x 10/100 Mbit/s Ethernet",
+      "CPU": "Realtek RTD1296 quad-core ARM A53",
+      "OS": ["Android", "Linux"],
+      "Memory": "2GB DDR4",
+      "Video Output": ["HDMI 2.0A port with HDCP 1.4", "MIPI DP"],
+      "Storage": [
+        "8G eMMC flash onboard",
+        "MicroSD slot",
+        "2 native SATA 3 6Gbps"
+      ],
+      "USB ports": ["1 x USB 2.0", "2 x USB OTG", "1 x USB 3.0 ports"],
+      "GPU": "Mali T820 MP3 GPU"
+    },
+    "price": 40
+  }
+]

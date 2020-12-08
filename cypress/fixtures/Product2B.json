@@ -1,0 +1,19 @@
+{
+  "id": "10",
+  "name": "Pineapple Pi 2 Model B",
+  "imageUrl": "YOUR_IMAGE_URL",
+  "specification": {
+    "Network": ["100M Ethernet", "Wi-Fi 802.11 b/g/n", "Bluetooth 4.0"],
+    "CPU": "Allwinner R40/V40/A40i",
+    "OS": ["Android", "Linux"],
+    "Memory": "1GB DDR3",
+    "Video Output": [
+      "HDMI port and multi-channel audio output",
+      "4-lane MIPI DSI display"
+    ],
+    "Storage": ["SATA interface", "MicroSD slot"],
+    "USB ports": ["1 x USB 2.0 OTG", "4 x USB 2.0 ports"],
+    "GPU": "Dual-core MALI-400 MP2"
+  },
+  "price": 30
+}
